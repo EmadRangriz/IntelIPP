@@ -1,0 +1,16 @@
+D:\Project\Intel IPP\Intel IPP\Intel IPP\bin\Debug\Intel IPP.exe.config
+D:\Project\Intel IPP\Intel IPP\Intel IPP\bin\Debug\Intel IPP.exe
+D:\Project\Intel IPP\Intel IPP\Intel IPP\bin\Debug\Intel IPP.pdb
+D:\Project\Intel IPP\Intel IPP\Intel IPP\obj\Debug\Intel IPP.exe
+D:\Project\Intel IPP\Intel IPP\Intel IPP\obj\Debug\Intel IPP.pdb
+D:\Project\Intel IPP\Intel IPP\Intel IPP\bin\Debug\Intel IPP_wrapperClass.dll
+D:\Project\Intel IPP\Intel IPP\Intel IPP\bin\Debug\Intel IPP_wrapperClass.pdb
+D:\Project\Intel IPP\Intel IPP\Intel IPP\obj\Debug\Intel IPP.csprojResolveAssemblyReference.cache
+D:\Ebook & Learning\Emi\Temp\apply\Project\Intel IPP\Intel IPP\Intel IPP\bin\Debug\Intel IPP.exe.config
+D:\Ebook & Learning\Emi\Temp\apply\Project\Intel IPP\Intel IPP\Intel IPP\bin\Debug\Intel IPP.exe
+D:\Ebook & Learning\Emi\Temp\apply\Project\Intel IPP\Intel IPP\Intel IPP\bin\Debug\Intel IPP.pdb
+D:\Ebook & Learning\Emi\Temp\apply\Project\Intel IPP\Intel IPP\Intel IPP\bin\Debug\Intel IPP_wrapperClass.dll
+D:\Ebook & Learning\Emi\Temp\apply\Project\Intel IPP\Intel IPP\Intel IPP\bin\Debug\Intel IPP_wrapperClass.pdb
+D:\Ebook & Learning\Emi\Temp\apply\Project\Intel IPP\Intel IPP\Intel IPP\obj\Debug\Intel IPP.csprojResolveAssemblyReference.cache
+D:\Ebook & Learning\Emi\Temp\apply\Project\Intel IPP\Intel IPP\Intel IPP\obj\Debug\Intel IPP.exe
+D:\Ebook & Learning\Emi\Temp\apply\Project\Intel IPP\Intel IPP\Intel IPP\obj\Debug\Intel IPP.pdb
